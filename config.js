@@ -3,6 +3,7 @@
 // Credits, jangan dihapus atau diubah!
 
 // - - THANKS TO - -
+// • Rii OFC
 // • Allah SWT
 // • Nurutomo
 // • Bochilgaming
@@ -59,7 +60,7 @@ global.ppulsa2 = '081368351252'
 global.psaweria = 'https://saweria.com/kannabotz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283143393763'
+global.nomorbot = '6281327538371'
 global.nomorown = '6281247822525'
 global.namebot = 'Rii BOT'
 global.nameown = 'Rii - OFC'
