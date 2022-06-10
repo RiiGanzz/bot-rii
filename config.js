@@ -48,7 +48,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 global.sig = 'https://instagram.com/ppiowy_'
 global.sgh = 'https://github.com/RiiGanzz'
 global.sgc = 'https://chat.whatsapp.com/CKF1y1F0M2J1hRJBSsv8bC'
-global.sdc = 'https://discord.gg/WEJQjugTY7'
+global.sdc = 'https://discord.gg/cD742GvS?event=978711411347837008'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
