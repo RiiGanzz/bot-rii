@@ -60,10 +60,10 @@ global.ppulsa2 = '081368351252'
 global.psaweria = 'https://saweria.com/kannabotz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285731134969'
-global.nomorown = '6285731134969'
-global.namebot = 'ALU BOT'
-global.nameown = 'ALU - OFC'
+global.nomorbot = '6281327538371'
+global.nomorown = '6281247822525'
+global.namebot = '🎆BotRii - OFC🎆'
+global.nameown = 'Rii - OFC あ⁩'
 
 
 /*============== STAFF ==============*/
@@ -118,12 +118,12 @@ global.APIKeys = { // APIKey Here
 /*============== WATERMARK ==============*/
 //GANTI SETERAH MU
 global.wm = '                「 Rii BOT あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Ƙαnnα - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Rii - OFC˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 global.wm3 = '⫹⫺ Rii 𝗕𝗢𝗧'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = '🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ'
-global.author = '                「 Ƙαnnα BOT あ⁩ 」'
+global.author = '                「 Rii BOT あ⁩ 」'
 
 
 /*============== LOGO ==============*/
