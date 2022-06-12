@@ -60,18 +60,18 @@ global.ppulsa2 = '081368351252'
 global.psaweria = 'https://saweria.com/kannabotz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281327538371'
-global.nomorown = '6281247822525'
-global.namebot = '🎆BotRii - OFC🎆'
-global.nameown = 'Rii - OFC あ⁩'
+global.nomorbot = '6285731134969'
+global.nomorown = '6285731134969'
+global.namebot = '🎆BotAlu - OFC🎆'
+global.nameown = 'Alu - OFC あ⁩'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281247822525'],
-  ['6281247822525'],
-  ['6281247822525'],
-  ['6281247822525', 'Rii ! 🐰', true]
+  ['6285731134969'],
+  ['6285731134969'],
+  ['6285731134969'],
+  ['6285731134969', 'Alu ! 🐰', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -117,13 +117,13 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 //GANTI SETERAH MU
-global.wm = '                「 Rii BOT あ⁩ 」' //Main Watermark
+global.wm = '                「 Alu BOT あ⁩ 」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Rii - OFC˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Rii 𝗕𝗢𝗧'
+global.wm3 = '⫹⫺ Alu 𝗕𝗢𝗧'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = '🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ'
-global.author = '                「 Rii BOT あ⁩ 」'
+global.author = '                「 Alu BOT あ⁩ 」'
 
 
 /*============== LOGO ==============*/
